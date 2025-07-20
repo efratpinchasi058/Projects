@@ -1,0 +1,76 @@
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.deps.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\refint\Bll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\ref\Bll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Serv.E59EB5EE.Up2Date
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.deps.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.AssemblyReference.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfo.cs
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Serv.E59EB5EE.Up2Date
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\refint\Bll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\ref\Bll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.deps.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.AssemblyReference.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfoInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfo.cs
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.CoreCompileInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Serv.E59EB5EE.Up2Date
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\refint\Bll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\ref\Bll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Serv.E59EB5EE.Up2Date
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\refint\Bll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Bll_Services\obj\Debug\net8.0\ref\Bll_Services.dll

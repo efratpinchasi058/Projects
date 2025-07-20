@@ -1,0 +1,396 @@
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.Development.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.exe
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.deps.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Core.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.staticwebassets.endpoints.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Bll_Services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IBll_Services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\WebApi\obj\Debug\net8.0\ref\WebApi.dll

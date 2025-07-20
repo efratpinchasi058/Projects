@@ -1,0 +1,44 @@
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\refint\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dto_Common_Enteties\obj\Debug\net8.0\ref\Dto_Common_Enteties.dll

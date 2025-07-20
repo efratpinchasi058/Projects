@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35346242-E3B8-442F-A21C-189D5A9B2AA4}|Bll_services\\Bll_services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\bll_services\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35346242-E3B8-442F-A21C-189D5A9B2AA4}|Bll_services\\Bll_services.csproj|solutionrelative:bll_services\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF237AB0-550E-4512-8415-3378E56BF4B8}|GUI_UI_PL\\GUI_UI_PL.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\gui_ui_pl\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF237AB0-550E-4512-8415-3378E56BF4B8}|GUI_UI_PL\\GUI_UI_PL.csproj|solutionrelative:gui_ui_pl\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\dto_common_enteties\\tora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|solutionrelative:dto_common_enteties\\tora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\dto_common_enteties\\navi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|solutionrelative:dto_common_enteties\\navi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\dto_common_enteties\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3199499-DAE4-49A9-83C0-86349549896C}|DTO_Common_enteties\\DTO_Common_enteties.csproj|solutionrelative:dto_common_enteties\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6599D64E-1A77-40E0-A29D-9F7E986A46EB}|Da_repository\\Da_repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\tanachproject\\da_repository\\readtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6599D64E-1A77-40E0-A29D-9F7E986A46EB}|Da_repository\\Da_repository.csproj|solutionrelative:da_repository\\readtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\Tanach\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\useMyProject\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\MyProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listBox.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\GUI_UI_PL\\listBox.cs",
+              "RelativeDocumentMoniker": "GUI_UI_PL\\listBox.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\GUI_UI_PL\\listBox.cs",
+              "RelativeToolTip": "GUI_UI_PL\\listBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tora.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\Tora.cs",
+              "RelativeDocumentMoniker": "DTO_Common_enteties\\Tora.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\Tora.cs",
+              "RelativeToolTip": "DTO_Common_enteties\\Tora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:44.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navi.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\Navi.cs",
+              "RelativeDocumentMoniker": "DTO_Common_enteties\\Navi.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\Navi.cs",
+              "RelativeToolTip": "DTO_Common_enteties\\Navi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:43.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "location.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\location.cs",
+              "RelativeDocumentMoniker": "DTO_Common_enteties\\location.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\DTO_Common_enteties\\location.cs",
+              "RelativeToolTip": "DTO_Common_enteties\\location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:38.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReadText.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\Da_repository\\ReadText.cs",
+              "RelativeDocumentMoniker": "Da_repository\\ReadText.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\Da_repository\\ReadText.cs",
+              "RelativeToolTip": "Da_repository\\ReadText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:30.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\Bll_services\\Search.cs",
+              "RelativeDocumentMoniker": "Bll_services\\Search.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\TanachProject\\Bll_services\\Search.cs",
+              "RelativeToolTip": "Bll_services\\Search.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwHMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T19:40:11.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\Tanach\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\Tanach\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\Tanach\\Program.cs",
+              "RelativeToolTip": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\Tanach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:09:50.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\Class1.cs",
+              "RelativeToolTip": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:08:39.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\useMyProject\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\useMyProject\\Class1.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\useMyProject\\Class1.cs",
+              "RelativeToolTip": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\useMyProject\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T10:08:37.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MyProject.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\MyProject.csproj",
+              "RelativeDocumentMoniker": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\MyProject.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\MyProject.csproj",
+              "RelativeToolTip": "..\\..\\!!!...\u05D3\u05D1\u05E8\u05D9\u05DD \u05DC\u05D9\u05E1\\!!\u05D4\u05DE\u05E1\u05DC\u05D5\u05DC \u05E9\u05DC\u05D9\\\u05E9\u05E0\u05D4 \u05D1\\C#\\TanachProject\\MyProject\\MyProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-22T10:08:13.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6B56B4-6DA0-48F0-A429-5DD90EDB25D5}|IDal_Repository\\IDal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\idal_repository\\idalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B56B4-6DA0-48F0-A429-5DD90EDB25D5}|IDal_Repository\\IDal_Repository.csproj|solutionrelative:idal_repository\\idalproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B6B56B4-6DA0-48F0-A429-5DD90EDB25D5}|IDal_Repository\\IDal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\idal_repository\\idalcustmore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B6B56B4-6DA0-48F0-A429-5DD90EDB25D5}|IDal_Repository\\IDal_Repository.csproj|solutionrelative:idal_repository\\idalcustmore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\ibll_services\\ibllcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibllcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\ibll_services\\ibllproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibllproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\ibll_services\\ibllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D0F8EC-E483-409C-B3B2-A6E2488641C4}|IBll_Services\\IBll_Services.csproj|solutionrelative:ibll_services\\ibllservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD677-AA19-4CD1-A1E9-80D3DEE97B1B}|Dto_Common_Enteties\\Dto_Common_Enteties.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dto_common_enteties\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD677-AA19-4CD1-A1E9-80D3DEE97B1B}|Dto_Common_Enteties\\Dto_Common_Enteties.csproj|solutionrelative:dto_common_enteties\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7FD677-AA19-4CD1-A1E9-80D3DEE97B1B}|Dto_Common_Enteties\\Dto_Common_Enteties.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dto_common_enteties\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7FD677-AA19-4CD1-A1E9-80D3DEE97B1B}|Dto_Common_Enteties\\Dto_Common_Enteties.csproj|solutionrelative:dto_common_enteties\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\custmoredal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\custmoredal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\proudctdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\proudctdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\converters\\customerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\converters\\customerconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\converters\\proudctconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\converters\\proudctconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\models\\dreamlandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\models\\dreamlandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE03DA9-B494-432C-A08D-C983AAA90826}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\bll_services\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE03DA9-B494-432C-A08D-C983AAA90826}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\customerbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE03DA9-B494-432C-A08D-C983AAA90826}|Bll_Services\\Bll_Services.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\bll_services\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE03DA9-B494-432C-A08D-C983AAA90826}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\productbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\dal_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\dal_repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\webapi\\controllers\\proudctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57103B34-19D0-4B43-96BD-05A7F5FEDEEB}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\proudctcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|c:\\users\\this user\\desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\dreamland\\dal_repository\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C7C4D1-B29C-46DB-9793-F334CC6BD21B}|Dal_Repository\\Dal_Repository.csproj|solutionrelative:dal_repository\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustmoreDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\CustmoreDal.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\CustmoreDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\CustmoreDal.cs",
+              "RelativeToolTip": "Dal_Repository\\CustmoreDal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:49:25.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "customerDto.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dto_Common_Enteties\\customerDto.cs",
+              "RelativeDocumentMoniker": "Dto_Common_Enteties\\customerDto.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dto_Common_Enteties\\customerDto.cs",
+              "RelativeToolTip": "Dto_Common_Enteties\\customerDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:34.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "productDto.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dto_Common_Enteties\\productDto.cs",
+              "RelativeDocumentMoniker": "Dto_Common_Enteties\\productDto.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dto_Common_Enteties\\productDto.cs",
+              "RelativeToolTip": "Dto_Common_Enteties\\productDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:36.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBllCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllCustomer.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBllCustomer.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllCustomer.cs",
+              "RelativeToolTip": "IBll_Services\\IBllCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:44.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBllProduct.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllProduct.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBllProduct.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllProduct.cs",
+              "RelativeToolTip": "IBll_Services\\IBllProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDalCustmore.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IDal_Repository\\IDalCustmore.cs",
+              "RelativeDocumentMoniker": "IDal_Repository\\IDalCustmore.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IDal_Repository\\IDalCustmore.cs",
+              "RelativeToolTip": "IDal_Repository\\IDalCustmore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:32:33.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDalProduct.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IDal_Repository\\IDalProduct.cs",
+              "RelativeDocumentMoniker": "IDal_Repository\\IDalProduct.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IDal_Repository\\IDalProduct.cs",
+              "RelativeToolTip": "IDal_Repository\\IDalProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:32:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBllServices.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllServices.cs",
+              "RelativeDocumentMoniker": "IBll_Services\\IBllServices.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\IBll_Services\\IBllServices.cs",
+              "RelativeToolTip": "IBll_Services\\IBllServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:32:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:23:02.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProudctDal.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\ProudctDal.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\ProudctDal.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\ProudctDal.cs",
+              "RelativeToolTip": "Dal_Repository\\ProudctDal.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:27:24.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerConvert.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\converters\\CustomerConvert.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\converters\\CustomerConvert.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\converters\\CustomerConvert.cs",
+              "RelativeToolTip": "Dal_Repository\\converters\\CustomerConvert.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:29:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProudctConvert.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\converters\\ProudctConvert.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\converters\\ProudctConvert.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\converters\\ProudctConvert.cs",
+              "RelativeToolTip": "Dal_Repository\\converters\\ProudctConvert.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:30:22.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DreamLandContext.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\DreamLandContext.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\models\\DreamLandContext.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\DreamLandContext.cs",
+              "RelativeToolTip": "Dal_Repository\\models\\DreamLandContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:48:13.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductBll.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Bll_Services\\ProductBll.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\ProductBll.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Bll_Services\\ProductBll.cs",
+              "RelativeToolTip": "Bll_Services\\ProductBll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerBll.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Bll_Services\\CustomerBll.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\CustomerBll.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Bll_Services\\CustomerBll.cs",
+              "RelativeToolTip": "Bll_Services\\CustomerBll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:31:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\Shop.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\models\\Shop.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\Shop.cs",
+              "RelativeToolTip": "Dal_Repository\\models\\Shop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:23:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\appsettings.json",
+              "RelativeToolTip": "WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T18:47:50.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T18:47:53.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dal_Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\Dal_Repository.csproj",
+              "RelativeDocumentMoniker": "Dal_Repository\\Dal_Repository.csproj",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\Dal_Repository.csproj",
+              "RelativeToolTip": "Dal_Repository\\Dal_Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T23:15:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABgAAADAgtDbl8kWwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:33:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProudctController.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Controllers\\ProudctController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ProudctController.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\WebApi\\Controllers\\ProudctController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ProudctController.cs",
+              "ViewState": "AgIAABAAAAAAvMlKEanwvyMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:33:49.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\Customer.cs",
+              "RelativeDocumentMoniker": "Dal_Repository\\models\\Customer.cs",
+              "ToolTip": "C:\\Users\\This User\\Desktop\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05D0\u05E4\u05E8\u05EA\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 end to eng\\c#\\DreamLand\\Dal_Repository\\models\\Customer.cs",
+              "RelativeToolTip": "Dal_Repository\\models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:52:01.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

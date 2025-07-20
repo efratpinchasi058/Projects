@@ -1,0 +1,85 @@
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.deps.json
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.dll
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.pdb
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.dll
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.dll
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.pdb
+D:\C#\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.pdb
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.AssemblyReference.cache
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfoInputs.cache
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfo.cs
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CoreCompileInputs.cache
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CopyComplete
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.dll
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\refint\Bll_services.dll
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.pdb
+D:\C#\TanachProject\Bll_services\obj\Debug\net7.0\ref\Bll_services.dll
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.dll
+F:\TanachProject\Bll_services\obj\Debug\net7.0\refint\Bll_services.dll
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.pdb
+F:\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.deps.json
+F:\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.dll
+F:\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.pdb
+F:\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.dll
+F:\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.dll
+F:\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.pdb
+F:\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.pdb
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.AssemblyReference.cache
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfoInputs.cache
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfo.cs
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CoreCompileInputs.cache
+F:\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CopyComplete
+F:\TanachProject\Bll_services\obj\Debug\net7.0\ref\Bll_services.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.deps.json
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Videos\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfo.cs
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CopyComplete
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\refint\Bll_services.dll
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Videos\TanachProject\Bll_services\obj\Debug\net7.0\ref\Bll_services.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.deps.json
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfo.cs
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CopyComplete
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\refint\Bll_services.dll
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Desktop\TanachProject\Bll_services\obj\Debug\net7.0\ref\Bll_services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_serv.E4CE428E.Up2Date
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\refint\Bll_services.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\Bll_services.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Bll_services\obj\Debug\net7.0\ref\Bll_services.dll

@@ -1,0 +1,146 @@
+/* card */
+body{
+	background-color: rgba(0, 0, 0, 0.698);
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border: none;
+}
+
+.card {
+	position: relative;
+	width: 900px;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 8px;
+	/* background-color: #ff0f7b; */
+	border-right-width: 8px;
+	overflow: hidden;
+	cursor: pointer;
+	
+}
+.bigButton{
+	/* background-color: aqua; */
+	width: 1150px;
+	height: 200px;
+	border: 4px solid #fff;
+	box-shadow: inset 0 0 5px #fff;
+margin-top: 4px;
+	display: flex; 
+ 
+}
+.button1{
+	height: 50px;
+	width: 150px;
+	margin-left: 50px;
+	margin-top: 75px;
+	color: rgb(2, 169, 169);
+	font-size:25px;
+}
+.rigthbn{
+	height: 100%;
+	width: 30px;
+	background-color: #f89b29;
+}
+.card:after{
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	display: flex;
+	background-color: rgba(79, 240, 79, 0.351);
+  background-size: cover;
+  background-position: center;
+	right: -100%;
+	transition: all 0.4s;
+}
+
+.title {
+	position: relative;
+	font-size: 2.5rem;
+	font-weight: 800;
+	background: linear-gradient(-45deg, #f89b29 0%, #ff0f7b 100%);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	transition: all 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+	z-index: 10;
+}
+
+.card:hover:after {
+	right: 0;
+}
+#details {
+	background-color: red;
+}
+.container{
+	display: flex;
+width: 100%;
+
+background-color:rgb(249, 230, 206);
+
+}
+.imgCar{
+ width: 50vh;
+ /* height: 35vh; */
+ background-size: cover;
+ background-position: center;
+ /* margin-right: 50%; */
+}
+.words{
+	/* background-color: white; */
+	width: 600px;
+	height: 100%;
+}
+
+.pWords{
+	font-size: 20px;
+    
+}
+
+#fuel{
+	height:10vh;
+}
+.card.active:after {
+	background-color: rgba(255, 0, 0, 0.243); /* צבע כאשר התנאי מתקיים */
+  }
+  .imgBigCar{
+	height: 70vh;
+  }
+ /* details */
+ #container1{
+	display: flex;
+	width: 100%;
+	height: 480px;
+	background-color:white
+ }
+ #title{
+	font-size: 70px;
+	margin-left: 10%;
+ }
+ .half1{
+	
+	width: 70%;
+ }
+ .half2{
+	/* background-color:rgba(149, 226, 245, 0.367); */
+	width: 30%;
+	font-size: 25px;
+ }
+ #lend{
+width: 100px;
+height: 40px;
+margin-left: 35%;
+color: white;
+background-color: black;
+ }
+ select{
+	width: 50%;
+	font-size: large;
+ }
+  

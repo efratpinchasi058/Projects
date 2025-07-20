@@ -1,0 +1,58 @@
+D:\C#\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.deps.json
+D:\C#\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.dll
+D:\C#\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.pdb
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfoInputs.cache
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfo.cs
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.CoreCompileInputs.cache
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.dll
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\refint\DTO_Common_enteties.dll
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.pdb
+D:\C#\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\ref\DTO_Common_enteties.dll
+F:\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.deps.json
+F:\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.dll
+F:\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.pdb
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.AssemblyReference.cache
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfoInputs.cache
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfo.cs
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.CoreCompileInputs.cache
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.dll
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\refint\DTO_Common_enteties.dll
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.pdb
+F:\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\ref\DTO_Common_enteties.dll
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.deps.json
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfo.cs
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\refint\DTO_Common_enteties.dll
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Videos\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\ref\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.deps.json
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfo.cs
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\refint\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\ref\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\bin\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\refint\DTO_Common_enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\DTO_Common_enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\DTO_Common_enteties\obj\Debug\net7.0\ref\DTO_Common_enteties.dll

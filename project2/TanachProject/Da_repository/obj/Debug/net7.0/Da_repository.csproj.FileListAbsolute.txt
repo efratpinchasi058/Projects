@@ -1,0 +1,60 @@
+D:\C#\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.deps.json
+D:\C#\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.dll
+D:\C#\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.pdb
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfoInputs.cache
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfo.cs
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.CoreCompileInputs.cache
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.dll
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\refint\Da_repository.dll
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.pdb
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\ref\Da_repository.dll
+D:\C#\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.AssemblyReference.cache
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.dll
+F:\TanachProject\Da_repository\obj\Debug\net7.0\refint\Da_repository.dll
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.pdb
+F:\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.deps.json
+F:\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.dll
+F:\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.pdb
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.AssemblyReference.cache
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfoInputs.cache
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfo.cs
+F:\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.CoreCompileInputs.cache
+F:\TanachProject\Da_repository\obj\Debug\net7.0\ref\Da_repository.dll
+C:\Users\This User\Videos\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.deps.json
+C:\Users\This User\Videos\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Videos\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.AssemblyReference.cache
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfoInputs.cache
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfo.cs
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.CoreCompileInputs.cache
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\refint\Da_repository.dll
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Videos\TanachProject\Da_repository\obj\Debug\net7.0\ref\Da_repository.dll
+C:\Users\This User\Desktop\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.deps.json
+C:\Users\This User\Desktop\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfo.cs
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\refint\Da_repository.dll
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\TanachProject\Da_repository\obj\Debug\net7.0\ref\Da_repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\bin\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\refint\Da_repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\Da_repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\TanachProject\Da_repository\obj\Debug\net7.0\ref\Da_repository.dll

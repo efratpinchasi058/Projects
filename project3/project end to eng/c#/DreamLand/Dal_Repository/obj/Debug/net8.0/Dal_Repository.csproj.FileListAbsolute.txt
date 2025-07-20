@@ -1,0 +1,76 @@
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.deps.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.runtimeconfig.json
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.AssemblyReference.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfoInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfo.cs
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.CoreCompileInputs.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\refint\Dal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.genruntimeconfig.cache
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\ref\Dal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repo.D41FEB8E.Up2Date
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\הנדסאים\שנה ב\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.deps.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.runtimeconfig.json
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.AssemblyReference.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfoInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfo.cs
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.CoreCompileInputs.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repo.D41FEB8E.Up2Date
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\refint\Dal_Repository.dll
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.genruntimeconfig.cache
+C:\Users\This User\Downloads\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\ref\Dal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.deps.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.runtimeconfig.json
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.AssemblyReference.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfoInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfo.cs
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.CoreCompileInputs.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repo.D41FEB8E.Up2Date
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\refint\Dal_Repository.dll
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.pdb
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.genruntimeconfig.cache
+E:\פרויקט end to eng (1)\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\ref\Dal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.deps.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.runtimeconfig.json
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\Dto_Common_Enteties.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\bin\Debug\net8.0\IDal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.AssemblyReference.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfoInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.AssemblyInfo.cs
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.csproj.CoreCompileInputs.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repo.D41FEB8E.Up2Date
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\refint\Dal_Repository.dll
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.pdb
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\Dal_Repository.genruntimeconfig.cache
+C:\Users\This User\Desktop\פרויקטים אפרת\פרויקט end to eng\c#\DreamLand\Dal_Repository\obj\Debug\net8.0\ref\Dal_Repository.dll
